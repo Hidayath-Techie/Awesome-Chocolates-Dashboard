@@ -74,14 +74,10 @@ The project follows the **Star Schema** with:
 - Data Visualization Techniques
 
 ---
-
-## 🚀 How to Use This Project
-
-1. Clone or download the repo:
-   ```bash
-   git clone https://github.com/yourusername/Awesome-Chocolates-Dashboard.git
 📩 Contact
 Hidayathulla S.
 Data Analyst | Power BI | SQL | Excel
+
 Email:hidayath.s.ulla@gmail.com
+
 LinkedIn:https://www.linkedin.com/in/hidayath-ulla-shaik-280599275
